@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">News Reader</string>
+    <string name="login_title">Welcome Back</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="menu_theme">Change Theme</string>
+    <string name="menu_logout">Logout</string>
+    <string name="theme_light">Light Theme</string>
+    <string name="theme_dark">Dark Theme</string>
+    <string name="theme_custom">Blue Theme</string>
+    <string name="no_news">No news available. Pull to refresh or check internet.</string>
+    <string name="delete">Delete</string>
+    <string name="open">Open</string>
+    <string name="share">Share</string>
+    <string name="loading">Loading...</string>
+    <string name="error_empty_field">Field cannot be empty</string>
+</resources>
